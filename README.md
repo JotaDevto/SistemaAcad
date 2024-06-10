@@ -1,7 +1,9 @@
 Trabalho academico de desenvolvimento WEB 
 
 #Trabalho feito em dupla com
+
 #Nome: Emanoel Santos Martins
+
 #Matricula: 202108663743
 
 Conexão do PHP para o SQL
